@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(28, 152, 213);
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: yellow; 
+}
+.larger {
+    color: yellow; 
+    font-size:large; 
+    font-weight: bold; 
+}
+
+a {
+    color: rgb(255, 255, 0);
+}
+
+.screenshot-link {
+    width: 30%;
+    margin: 10px;
+}
+
+.screenshots {
+    text-align: center;
+}
+.caption {
+    color:yellow; 
+    text-align:center;
+    font-size:larger;
+    font-weight:bolder;
+    margin-top: 2px; 
+}
+
+.current-scheduling-interface-screenshot {
+    width: 100%;
+    max-width: 1000px;
+}
